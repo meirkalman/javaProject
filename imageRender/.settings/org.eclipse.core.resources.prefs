@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/elements/Camera.java=UTF-8
+encoding//src/elements/PointLight.java=UTF-8
+encoding//src/elements/SpotLight.java=UTF-8
+encoding//src/geometries/Plain.java=UTF-8
+encoding//src/geometries/Sphere.java=UTF-8
+encoding//src/geometries/Triangle.java=UTF-8
+encoding//src/geometries/Tube.java=UTF-8
+encoding//src/renderer/ImageWriter.java=UTF-8
+encoding//src/renderer/Render.java=UTF-8
+encoding//src/tests/TestRender.java=UTF-8
